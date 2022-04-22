@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896756747436",
+    "project_id": "stockr-e0c71",
+    "storage_bucket": "stockr-e0c71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896756747436:android:f3a20efaf338787ea2e309",
+        "android_client_info": {
+          "package_name": "com.android.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896756747436-99doc8gbofsfr1bevfqum4viqrtaka1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57272VQjkvU9gn7v8iVgxWi65iCkZeck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896756747436-99doc8gbofsfr1bevfqum4viqrtaka1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="actionbar_height">@dimen/fiftydp</dimen>
+    <dimen name="zerodp">0dp</dimen>
+    <dimen name="onedp">1dp</dimen>
+    <dimen name="twodp">2dp</dimen>
+    <dimen name="threedp">3dp</dimen>
+    <dimen name="fourdp">4dp</dimen>
+    <dimen name="fivedp">5dp</dimen>
+    <dimen name="eighdp">8dp</dimen>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="thirteendp">13dp</dimen>
+    <dimen name="fifteendp">15dp</dimen>
+    <dimen name="eighteendp">18dp</dimen>
+    <dimen name="twentydp">20dp</dimen>
+    <dimen name="twentyfivedp">25dp</dimen>
+    <dimen name="thirtydp">30dp</dimen>
+    <dimen name="thirtyfivedp">35dp</dimen>
+    <dimen name="fourtydp">40dp</dimen>
+    <dimen name="fourtyfivedp">45dp</dimen>
+    <dimen name="fiftydp">50dp</dimen>
+    <dimen name="fiftyfivedp">55dp</dimen>
+    <dimen name="sixtydp">60dp</dimen>
+    <dimen name="seventydp">70dp</dimen>
+    <dimen name="eightydp">80dp</dimen>
+    <dimen name="ninetydp">90dp</dimen>
+    <dimen name="hundreddp">100dp</dimen>
+    <dimen name="hundredtwentydp">120dp</dimen>
+    <dimen name="hundredfiftydp">150dp</dimen>
+    <dimen name="hundredseventydp">170dp</dimen>
+    <dimen name="hundredtwentyfive">125dp</dimen>
+    <dimen name="seventyfive">75dp</dimen>
+    <dimen name="twohundreddp">200dp</dimen>
+    <dimen name="twohundredtwentydp">220dp</dimen>
+    <dimen name="twohundredfiftydp">250dp</dimen>
+    <dimen name="twohundredseventydp">270dp</dimen>
+    <dimen name="threehundreddp">300dp</dimen>
+    <dimen name="threehundredfiftydp">350dp</dimen>
+    <dimen name="fourhundreddp">400dp</dimen>
+    <dimen name="fivehundreddp">500dp</dimen>
+    <dimen name="sixhundreddp">600dp</dimen>
+
+
+    <!--Font Size-->
+    <dimen name="thirtysp">30sp</dimen>
+    <dimen name="fourtysp">40sp</dimen>
+    <dimen name="sixtysp">60sp</dimen>
+    <dimen name="twentyfivesp">25sp</dimen>
+    <dimen name="twentysp">20sp</dimen>
+    <dimen name="twentyfoursp">24sp</dimen>
+    <dimen name="eighteensp">18sp</dimen>
+    <dimen name="sixteensp">16sp</dimen>
+    <dimen name="fifteensp">15sp</dimen>
+    <dimen name="fourteensp">14sp</dimen>
+    <dimen name="thirteensp">13sp</dimen>
+    <dimen name="twelvesp">12sp</dimen>
+    <dimen name="elevensp">11sp</dimen>
+    <dimen name="tensp">10sp</dimen>
+    <dimen name="ninesp">9sp</dimen>
+    <dimen name="eightsp">8sp</dimen>
+
+    <dimen name="sephiroth_range_progress_bar_height_material">2dp</dimen>
+    <dimen name="sephiroth_range_progress_bar_tick_mark_height_material">3.5dp</dimen>
+    <dimen name="sephiroth_range_progress_bar_tick_mark_width_material">3.5dp</dimen>
+</resources>
